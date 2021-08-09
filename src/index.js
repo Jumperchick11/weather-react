@@ -9,6 +9,11 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <h3>
+        <a href="https://github.com/Jumperchick11/weather-react.git" 
+        target="_blank">Open-source code</a>, 
+        Bethany Nixon
+        </h3>
       </div>
     
   );

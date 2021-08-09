@@ -48,9 +48,6 @@ export default function WeatherSearch() {
             <img src={weather.icon} alt={weather.description} />
           </li>
         </ul>
-        <a href="https://github.com/Jumperchick11/weather-react.git" 
-        target="_blank">Open-source code</a>, 
-        Bethany Nixon
        </div>
     );
   } else {
