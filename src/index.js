@@ -11,7 +11,7 @@ function App() {
       <WeatherSearch />
       <h3>
         <a href="https://github.com/Jumperchick11/weather-react.git" 
-        target="_blank">Open-source code</a>, 
+        target="_blank" rel="noreferrer">Open-source code</a> by, 
         Bethany Nixon
         </h3>
       </div>
