@@ -48,7 +48,7 @@ export default function WeatherSearch() {
             <img src={weather.icon} alt={weather.description} />
           </li>
         </ul>
-      </div>
+       </div>
     );
   } else {
     return form;
